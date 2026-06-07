@@ -17,68 +17,33 @@ export const profile = {
 
 export const skills = [
     {
-        category: "Automation Testing",
+        category: "Editting skill",
         items: [
-            { name: "Cypress E2E Testing", level: "Expert" },
-            { name: "Playwright E2E Testing", level: "Beginner" },
-            { name: "Katalon Studio E2E Testing", level: "Beginner" },
-            { name: "Test Script Development", level: "Expert" },
-            { name: "Test Case Design", level: "Expert" },
+            { name: "Adobe premiere pro", level: "Expert" },
+            { name: "Capcut ", level: "Advance" },
+            { name: "Adobe after Effect", level: "Beginner" },
+            { name: "filmora", level: "Expert" },
+            { name: " Adobe lightroom", level: " Expert " }      
         ],
     },
     {
-        category: "Performance Testing",
+        category: "Director of photography (DOP)",
         items: [
-            { name: "Grafana k6", level: "Advanced" },
-            { name: "Load Testing", level: "Advanced" },
-            { name: "Stress Testing", level: "Advanced" },
-            { name: "Spike Testing", level: "Advanced" },
+            { name: "Camera Opration", level: "Expert" },
+            { name: "Storytelling Visual", level: "Advanced" },
+
+       
         ],
     },
     {
-        category: "Testing & QA Methodologies",
+        category: "grapich designer",
         items: [
-            { name: "Bug Analysis & RCA", level: "Expert" },
-            { name: "Test Plans & Test Cases", level: "Expert" },
-            { name: "Functional Testing", level: "Advanced" },
-            { name: "API Testing", level: "Advanced" },
+            { name: " Adobe illustator", level: "Expert" },
+            { name: " Canva ", level: "Expert" },
+  
         ],
     },
-    {
-        category: "Technical & Development",
-        items: [
-            { name: "JavaScript / Node.js", level: "Advanced" },
-            { name: "React.js / Next.js", level: "Advanced" },
-            { name: "Python", level: "Intermediate" },
-            { name: "HTML / CSS", level: "Advanced" },
-        ],
-    },
-    {
-        category: "Debugging & Monitoring",
-        items: [
-            { name: "Browser Network Tools", level: "Advanced" },
-            { name: "htop (Server Monitoring)", level: "Advanced" },
-            { name: "Performance Analysis", level: "Advanced" },
-            { name: "Bottleneck Identification", level: "Advanced" },
-        ],
-    },
-    {
-        category: "Quality Standards",
-        items: [
-            { name: "ISO 9001", level: "Expert" },
-            { name: "Internal Auditing", level: "Expert" },
-            { name: "CAPA Development", level: "Advanced" },
-            { name: "Kaizen / CI", level: "Advanced" },
-        ],
-    },
-    {
-        category: "Tools & Version Control",
-        items: [
-            { name: "Git / GitHub / GitLab", level: "Advanced" },
-            { name: "Trello", level: "Advanced" },
-            { name: "GMP Standards", level: "Intermediate" },
-        ],
-    },
+    
 ];
 
 export const experiences = [
