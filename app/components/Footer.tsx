@@ -20,10 +20,10 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <h3 className="text-xl font-bold text-slate-900 mb-2">
-              QA<span className="text-cyan-600">.</span>Portfolio
+              Editor<span className="text-cyan-600">.</span>Portfolio
             </h3>
             <p className="text-slate-600 text-sm">
-              Quality Assurance Engineer specializing in automation and performance testing.
+              Editor.
             </p>
           </div>
 

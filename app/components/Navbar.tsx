@@ -19,7 +19,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link href="/" className="text-xl font-bold text-slate-900">
-            QA<span className="text-cyan-600">.</span>Portfolio
+            Editor<span className="text-cyan-600">.</span>Portfolio
           </Link>
 
           {/* Desktop Navigation */}
